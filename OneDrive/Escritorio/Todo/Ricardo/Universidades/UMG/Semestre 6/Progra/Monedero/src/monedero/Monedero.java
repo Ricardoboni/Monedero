@@ -8,6 +8,10 @@ import java.util.ArrayList;
  */
 public class Monedero {
     private double saldo;
+/**
+ * Esta clase nos va a permitir obener el listado de de actividades
+ */
+    
     private ArrayList<String> historial;
 
     /**
